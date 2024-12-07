@@ -1,0 +1,6 @@
+ветки master и demo не отличаются
+fix readme
+dots
+README added
+boots
+init
